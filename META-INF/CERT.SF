@@ -1,0 +1,13 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: qoxl4Nu3cN6w7K1OjLE3VFH4eJE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: V/nY7HdZOqq5pFokBW/wt0efZSw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Z0tdCkWgO+sn/GN3kY9nLnPam5Q=
+
+Name: system/app/Vending.apk
+SHA1-Digest: gTmH22ijnmJQsbEIkSa3QZOmC5c=
+
