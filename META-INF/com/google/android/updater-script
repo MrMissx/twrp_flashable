@@ -1,7 +1,7 @@
 show_progress(0.500000, 0);
 ui_print("====================================");
 ui_print("*                                  *");
-ui_print("*       Twice Bootanimation        *");
+ui_print("*           Module Name            *");
 ui_print("*                                  *");
 ui_print("====================================");
 ui_print("Mounting system");
